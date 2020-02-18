@@ -9,7 +9,7 @@
     </span>
     &nbsp;{{ skills.title }}
   </h2>
-
+  {{ skills.intro | markdownify }}
   <div class="skillset">
 
     {% for skill in skills.toolset %}

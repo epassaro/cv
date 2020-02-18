@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: epassaro15@gmail.com
-    phone: +54 221 594-0530
+    phone: +54 9 221 594-0530
     website: epassaro.github.io #do not add http://
     linkedin: epassaro
     github:
@@ -79,7 +79,10 @@ experiences:
 projects:
     title: Projects
     intro: >
-      List of projects and organizations I'm currently involved in.
+      List of projects and organizations I'm currently involved in. <br><br>
+
+      - [TARDIS](https://github.com/tardis-sn/tardis) -   _Core developer (2020-present)_ <br>
+        An open source Monte Carlo radiative-transfer spectral synthesis code for 1D models of supernova ejecta.
     assignments:
 #      - title: Velocity
 #        link: "#hook"
@@ -88,15 +91,29 @@ projects:
 publications:
     title: Publications
     intro: |
-      Papers, presentations and posters authored or co-authored by me.
-    papers:
-      - title: An open source framework for atomic data
-        link: "https://epassaro.github.io/publication/aaa2019/"
-        authors: Pássaro E. A., Kerzendorf W. E., Floers A., Vogl C.
-        conference: 61ª Reunión anual de la Asociación Argentina de Astronomía
+      Papers, presentations and posters authored or co-authored by me. <br><br>
+      
+      - [An open source framework for atomic data](https://epassaro.github.io/publication/aaa2019/) (2019) <br>
+        _Pássaro E. A., Kerzendorf W. E., Floers A., Vogl C._ <br>
+        61ª Reunión anual de la Asociación Argentina de Astronomía
+#    papers:
+#      - title: An open source framework for atomic data
+#        link: "https://epassaro.github.io/publication/aaa2019/"
+#        authors: Pássaro E. A., Kerzendorf W. E., Floers A., Vogl C.
+#        conference: 61ª Reunión anual de la Asociación Argentina de Astronomía
 
 skills:
-    title: Relevant skills
+    title: Technical skills
+    intro: |
+      - Strong background in mathematics, physics and astronomy.
+
+      - +3 years programming experience in Python including numerical, scientific and machine learning libraries.
+
+      - +3 years programming experience in Fortran and C/C++.
+
+      - +10 years of experience with GNU/Linux and the open source software ecosystem.
+
+      - <1 year of experience with cloud technologies such as Microsoft Azure and Google Cloud Platform.
 
 #    toolset:
 #      - name: Python & Django
