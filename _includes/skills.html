@@ -7,7 +7,7 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-wrench fa-stack-1x fa-inverse"></i>
     </span>
-    {{ skills.title }}
+    &nbsp;{{ skills.title }}
   </h2>
 
   <div class="skillset">
@@ -20,12 +20,15 @@
       <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}">
         </div>
-      </div><!--//level-bar-->
+      </div>
+      <!--//level-bar-->
 
-    </div><!--//item-->
+    </div>
+    <!--//item-->
     {% endfor %}
 
   </div>
 
-</section><!--//skills-section-->
+</section>
+<!--//skills-section-->
 {% endif %}
