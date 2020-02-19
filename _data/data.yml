@@ -71,10 +71,27 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Google Summer of Code student
+    - role: Student Developer 
       time: May - Aug 2019
-      company: The Python Software Foundation
-      details: 
+      company: Google Summer of Code @ PSF
+      details: |
+        I developed open source software for The Python Software Foundation 
+        between May 27th -- Aug 15th, 2019. Over that period, I passed each
+        of the three evaluations conducted by my mentors.
+        <div style="line-height:40%;">
+          <br>
+        </div>  
+        - Porting legacy code to Python 3.
+        
+        - Setting up CI pipelines.
+        
+        - Making extensive use of NumPy and Pandas to develop new features.
+
+        - Writing unit tests and documentation.
+        <div style="line-height:90%;">
+          <br>
+        </div>
+        More information can be found at [epassaro.github.io/gsoc19](https://epassaro.github.io/gsoc19).
 
 projects:
     title: Projects
