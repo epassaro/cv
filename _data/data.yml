@@ -72,12 +72,17 @@ education:
           - Bullet point
 experiences:
     - role: Student Developer 
+      time: May 2020 - present
+      company: TARDIS-SN
+      details:
+    - role: Student Developer 
       time: May - Aug 2019
-      company: Google Summer of Code @ PSF
+      company: Python Software Foundation
       details: |
-        I developed open source software for The Python Software Foundation 
-        between May 27th -- Aug 15th, 2019. Over that period, I passed each
-        of the three evaluations conducted by my mentors.
+        I developed open source software with funding from the Google Summer of
+        Code program between May 27th -- Aug 15th, 2019. 
+        Over that period, I passed each of the three evaluations conducted 
+        by my mentors.
         <div style="line-height:40%;">
           <br>
         </div>  
